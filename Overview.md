@@ -1,4 +1,4 @@
-# Background to the Project
+# Background to the Fiari UI project
 
 ## List of components
 
